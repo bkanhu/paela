@@ -1,7 +1,7 @@
 
 # Paela
 
-![Image of Paela](paelaIMG.png)
+![Image of Paela](paelaIMG.PNG)
 
 Paela, a command-line system information tool for Microsoft Windows.
 
@@ -20,4 +20,4 @@ Paela shows the information that user want to see. There are other tools availab
    2. Search for **Command Prompt**.
    3. Then type **paela**
 
-> Made with ![Love](Love_PNG89.png) in India.
+> Made with ![](love_PNG89.PNG) in India.
