@@ -20,4 +20,4 @@ Paela shows the information that user want to see. There are other tools availab
    2. Search for **Command Prompt**.
    3. Then type **paela**
 
-> Made with ![](love_PNG89.PNG) in India.
+> Made with ![Love](love_PNG89.PNG) in India.
